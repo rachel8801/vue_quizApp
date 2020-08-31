@@ -1,0 +1,175 @@
+{
+  "results": [{
+    "question": "What does CPU stand for?",
+    "suggestions": [{
+        "suggestion": "Central Processing Unit",
+        "correct": "ture "
+      },
+      {
+        "suggestion": "Central Process Unit"
+      },
+      {
+        "suggestion": "Computer Personal Unit"
+      },
+      {
+        "suggestion": "Central Processor Unit"
+      }
+    ]
+
+  }, {
+    "question": "What does the &quot;MP&quot; stand for in MP3?",
+    "suggestions": [{
+        "suggestion": "Music Player"
+      },
+      {
+        "suggestion": "Moving Picture",
+        "correct": "ture "
+      },
+      {
+        "suggestion": "Multi Pass"
+      },
+      {
+        "suggestion": "Micro Point"
+      }
+    ]
+  }, {
+
+    "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?",
+    "suggestions": [{
+        "suggestion": "Static"
+      },
+      {
+        "suggestion": "Final",
+        "correct": "ture "
+      },
+      {
+        "suggestion": "Private"
+      },
+      {
+        "suggestion": "Public"
+      }
+    ]
+  }, {
+
+    "question": "The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:",
+    "suggestions": [{
+        "suggestion": "HD Graphics 900"
+      },
+      {
+        "suggestion": "HD Graphics 500",
+        "correct": "ture "
+      },
+      {
+        "suggestion": "HD Graphics 700"
+      },
+      {
+        "suggestion": "HD Graphics 600"
+      }
+    ]
+  }, {
+
+    "question": "What is the domain name for the country Tuvalu?",
+    "suggestions": [{
+        "suggestion": ".tu"
+      },
+      {
+        "suggestion": ".tv",
+        "correct": "ture "
+      },
+      {
+        "suggestion": ".tt"
+      },
+      {
+        "suggestion": ".tl"
+      }
+    ]
+
+  }, {
+
+    "question": "How many kilobytes in one gigabyte (in decimal)?",
+    "suggestions": [{
+        "suggestion": "1024"
+      },
+      {
+        "suggestion": "1000000",
+        "correct": "ture "
+      },
+      {
+        "suggestion": "1000"
+      },
+      {
+        "suggestion": "1048576"
+      }
+    ]
+  }, {
+    "question": "What does LTS stand for in the software market?",
+    "suggestions": [{
+        "suggestion": "Ludicrous Turbo Speed"
+      },
+      {
+        "suggestion": "Long Term Support",
+        "correct": "ture "
+      },
+      {
+        "suggestion": "Ludicrous Transfer Speed"
+      },
+      {
+        "suggestion": "Long Taco Service"
+      }
+    ]
+
+  }, {
+
+    "question": "How long is an IPv6 address?",
+    "suggestions": [{
+        "suggestion": "128 bits",
+        "correct": "ture "
+      },
+      {
+        "suggestion": "32 bits"
+
+      },
+      {
+        "suggestion": "64 bits"
+      },
+      {
+        "suggestion": "128 bits"
+      }
+    ]
+
+  }, {
+    "question": "In computing, what does MIDI stand for?",
+    "suggestions": [{
+        "suggestion": "Musical Interface of Digital Instruments"
+      },
+      {
+        "suggestion": "Modular Interface of Digital Instruments"
+
+      },
+      {
+        "suggestion": "Musical Instrument Data Interface"
+      },
+      {
+        "suggestion": "Musical Instrument Digital Interface",
+        "correct": "ture "
+      }
+    ]
+
+  }, {
+    "question": "In computing, what does LAN stand for?",
+    "suggestions": [{
+        "suggestion": "Long Antenna Node"
+      },
+      {
+        "suggestion": "Local Area Network",
+        "correct": "ture "
+      },
+      {
+        "suggestion": "Light Access Node"
+      },
+      {
+        "suggestion": "Land Address Navigation"
+      }
+    ]
+  }]
+}
